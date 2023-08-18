@@ -100,6 +100,10 @@ body {
   font-weight: bold;
 }
 
+ul {
+  margin: 10px;
+}
+
 .image {
   padding: 20px;
   background-color: #ffeecc;
